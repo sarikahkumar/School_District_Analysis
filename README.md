@@ -55,7 +55,7 @@ image
 **Summary** 
 
 The following four changes were observed in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
-	- Thomas high school's individual score percentages and overall percentage was slightly improved
-	- District Summary updated with changes in average scores for math and reading
-	- District Summary updated with changes in overall percentage, math and reading percentages
-	- Scores by school size, type, spending, and by grade were not affected due to this change
+- Thomas high school's individual score percentages and overall percentage was slightly improved
+- District Summary updated with changes in average scores for math and reading
+- District Summary updated with changes in overall percentage, math and reading percentages
+- Scores by school size, type, spending, and by grade were not affected due to this change
