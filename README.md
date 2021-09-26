@@ -39,11 +39,11 @@ image
 	- Reading Pass percentage increased to 97.0%
 	- Overall pass percentage increased to 90.63 %
 ---
-3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+3.How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 - Thomas High School's position as 2 top performer remained the same with slight improvement in pass percentages for math, reading and overall pass percentage
 ---
-4. How does replacing the ninth-grade scores affect the following:
+4.How does replacing the ninth-grade scores affect the following:
 	(a)Math and reading scores by grade
 	(b)Scores by school spending
 	(c)Scores by school size
