@@ -35,7 +35,8 @@ image![district_summary](https://user-images.githubusercontent.com/89427676/1348
 ---
 2.How is the school summary affected?
 
-![district_summary](https://user-images.githubusercontent.com/89427676/134826361-38e259f4-8395-43eb-be6e-cb9881dbc3f8.PNG)
+
+![School_Summary](https://user-images.githubusercontent.com/89427676/134826387-fca1ce5b-283d-4559-84a0-82f06572c3bf.PNG)
 
 - Changes were made to Thomas High School with data covering only 10th to 12th grades of Thomas High School (fig above), as given below:
 	- Math pass percentage increased to 93.2%
