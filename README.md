@@ -52,7 +52,7 @@ image
 - The replacement does not have any effect on the Math and reading scores by grade of other schools except Thomas High School,as the impact was only on Thomas High School's 9th grade
 - Scores by school spending, school size, and school type were not affected by this replacement 
 
-##**Summary** 
+**Summary** 
 
 The following four changes were observed in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
 	- Thomas high school's individual score percentages and overall percentage was slightly improved
