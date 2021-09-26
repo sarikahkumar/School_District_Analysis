@@ -24,7 +24,8 @@ The purpose of this analysis is to repeat the school district analysis by replac
 1. How is the district summary affected?
 
 - The district summary after excluding  Thomas School 9th grade math and reading scores is given below
-image
+image![district_summary](https://user-images.githubusercontent.com/89427676/134826355-57e69c7c-6cd0-42c4-8933-575bfb2c55c1.PNG)
+
 - The total students changed to 38,709 from 39,170
 - Average Math score reduced to 78.9 from 79.0
 - Average reading score remained almost same
@@ -34,7 +35,9 @@ image
 ---
 2.How is the school summary affected?
 
-- Changes were made to Thomas High School with data covering only 10th to 12th grades of Thomas High School, as given below:
+![district_summary](https://user-images.githubusercontent.com/89427676/134826361-38e259f4-8395-43eb-be6e-cb9881dbc3f8.PNG)
+
+- Changes were made to Thomas High School with data covering only 10th to 12th grades of Thomas High School (fig above), as given below:
 	- Math pass percentage increased to 93.2%
 	- Reading Pass percentage increased to 97.0%
 	- Overall pass percentage increased to 90.63 %
